@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mihir12345
+- 👋 Hi, I’m Mihir Patil
 - 👀 I’m interested in Web Development,  Animation and Data Security
 - 🌱 I’m currently learning to create responsive mobile applicaiton
 - 💞️ I’m looking to collaborate Web designing realted projects
